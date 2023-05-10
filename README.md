@@ -2,7 +2,7 @@
 
 The tasks given under PwC PowerBI Virtual Experience Program in Forage.
 
-Task 1: Introduction
+Task 1: Introduction on PowerBI
 
 Task 2: Call Centre Trends
 
